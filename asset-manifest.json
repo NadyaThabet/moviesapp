@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/moviesapp.git/static/css/main.64b59447.css",
-    "main.js": "/moviesapp.git/static/js/main.605c57c9.js",
+    "main.js": "/moviesapp.git/static/js/main.ce5176d6.js",
     "static/media/slick.svg": "/moviesapp.git/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/moviesapp.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/moviesapp.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/moviesapp.git/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/moviesapp.git/index.html",
     "main.64b59447.css.map": "/moviesapp.git/static/css/main.64b59447.css.map",
-    "main.605c57c9.js.map": "/moviesapp.git/static/js/main.605c57c9.js.map"
+    "main.ce5176d6.js.map": "/moviesapp.git/static/js/main.ce5176d6.js.map"
   },
   "entrypoints": [
     "static/css/main.64b59447.css",
-    "static/js/main.605c57c9.js"
+    "static/js/main.ce5176d6.js"
   ]
 }
