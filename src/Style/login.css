@@ -1,0 +1,97 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.login-div {
+  min-height: 77vh;
+}
+
+@media screen and (min-width: 320px) and (max-width: 480px) {
+  .login-div {
+    width: 100% !important;
+    margin-top: 2em !important;
+  }
+  .crt-btn {
+    font-size: 14px !important;
+    padding: 0.58em !important;
+  }
+  .git-btn {
+    font-size: 11px !important;
+    width: 100% !important;
+    margin-bottom: 0.5em;
+  }
+  .g-btn {
+    font-size: 9px !important;
+    width: 100% !important;
+  }
+}
+
+@media screen and (min-width: 481px) and (max-width: 768px) {
+  .login-div {
+    width: 75% !important;
+    margin-top: 2em !important;
+  }
+  .crt-btn {
+    font-size: 14px !important;
+    padding: 0.58em !important;
+  }
+  .git-btn {
+    font-size: 13px !important;
+    width: 165% !important;
+  }
+  .g-btn {
+    font-size: 13px !important;
+    width: 200% !important;
+  }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+  .login-div {
+    width: 75% !important;
+    margin-top: 2em !important;
+  }
+  .crt-btn {
+    font-size: 20px !important;
+  }
+  .git-btn {
+    font-size: 20px !important;
+    width: 186% !important;
+  }
+  .g-btn {
+    font-size: 20px !important;
+    width: 201% !important;
+  }
+  .log {
+    font-size: 20px !important;
+  }
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1200px) {
+  .login-div {
+    width: 75% !important;
+    margin-top: 2em !important;
+    font-size: 23px !important;
+  }
+  .crt-btn {
+    font-size: 25px !important;
+  }
+  .git-btn {
+    font-size: 25px !important;
+    width: 35% !important;
+  }
+  .g-btn {
+    font-size: 25px !important;
+    width: 35% !important;
+  }
+  .log {
+    font-size: 25px !important;
+  }
+}
+
+@media screen and (min-width: 1201px) {
+  .login-div {
+    width: 35% !important;
+  }
+}

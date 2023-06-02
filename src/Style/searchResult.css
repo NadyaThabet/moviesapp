@@ -1,0 +1,29 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+@media screen and (min-width: 320px) and (max-width: 480px) {
+  .cards-div {
+    justify-content: center !important;
+  }
+}
+
+@media screen and (min-width: 481px) and (max-width: 768px) {
+  .cards-div {
+    justify-content: center !important;
+  }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+  .cards-div {
+    justify-content: center !important;
+  }
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1200px) {
+  .cards-div {
+    justify-content: center !important;
+  }
+}
